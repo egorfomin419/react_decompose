@@ -1,4 +1,4 @@
-import './navigation.css';
+import './Navigation.css';
 
 export default function Navigation() {
   return (
@@ -6,11 +6,9 @@ export default function Navigation() {
       <a className="navigation__link" href="#about">
         About
       </a>
-
       <a className="navigation__link" href="#services">
         Services
       </a>
-
       <a className="navigation__link" href="#contact">
         Contact
       </a>
